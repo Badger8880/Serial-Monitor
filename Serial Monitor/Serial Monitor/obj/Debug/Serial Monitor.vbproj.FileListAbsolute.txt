@@ -1,0 +1,16 @@
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe.config
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.pdb
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.xml
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.Form1.resources
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial_Monitor.Resources.resources
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.vbproj.GenerateResource.cache
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.vbproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.exe
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.xml
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.pdb
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.exe.manifest
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\bin\Debug\Serial Monitor.application
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.vbprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.exe.manifest
+C:\Users\Ben\source\repos\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.application
